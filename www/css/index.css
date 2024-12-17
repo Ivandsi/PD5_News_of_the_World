@@ -24,3 +24,12 @@ body {
 nav {
     display: none;
 }
+
+.collection-item a {
+    cursor: pointer;
+}
+
+#result-tab img {
+    width: 400px;
+    height: auto;
+}
